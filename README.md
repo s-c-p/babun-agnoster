@@ -1,5 +1,6 @@
 # babun-agnoster
-This is **my** install and config for Babun on Windows
+
+This is **sane***-ish* (localization is en_US and respects the original Solarized theme) install and config for Babun on Windows
 with oh-my-zsh and Agnoster theme.
 
 ## Installation
