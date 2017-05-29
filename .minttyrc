@@ -4,7 +4,7 @@ Rows=35
 Font=DejaVu Sans Mono for Powerline
 FontHeight=10
 CursorType=line
-Locale=de_DE
+Locale=en_US
 Charset=UTF-8
 RightClickAction=paste
 
